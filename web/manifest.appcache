@@ -5,10 +5,12 @@ CACHE MANIFEST
 
 /zerver/API.js
 //cdnjs.cloudflare.com/ajax/libs/zepto/1.1.3/zepto.min.js
+//underscorejs.org/underscore-min.js
+//backbonejs.org/backbone-min.js
 //cdn.kik.com/kik/1.0.9/kik.js
 //cdn.kik.com/app/2.0.1/app.min.js
 /controller/home.js
-/controller/page2.js
+/controller/send_moose.js
 /main.js
 
 NETWORK:
